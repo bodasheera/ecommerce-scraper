@@ -1,0 +1,4 @@
+.vscode
+scraping/.vscode
+env
+*.pyc
